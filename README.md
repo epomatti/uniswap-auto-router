@@ -1,13 +1,13 @@
-# Uniswap Auto Router
+# Uniswap Auto Router Integration <img src=".docs/logo.png" width=30/>
 
-## Guide
+Official guides: https://docs.uniswap.org/sdk/guides/auto-router
 
-Set upt the `.env` file.
+Set upt the `.env` file with your node URL.
 
 Install dependencies:
 
 ```shell
-npm install
+yarn install
 ```
 
 Running it:
